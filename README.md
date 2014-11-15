@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=hAnOGzAtt4E
 
 **Tutorial**
 Read the full tutorial here:  
-http://mikebethany.com/coffeescript-from-any-view-in-ruby-on-rails
+http://mikebethany.com/coffeescript-from-any-view
